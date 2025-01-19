@@ -11,7 +11,7 @@
 - Real-time database
 - Notion-style editor
 - Infinite children documents
-- Trash can & soft delete 🗑
+- Trash can & soft delete
 - Authentication
 - File upload
 - File deletion
@@ -53,3 +53,11 @@ EDGE_STORE_SECRET_KEY=""
 npm run dev
 ```
 Then scan the QR Code acording to the instructions on the terminal
+
+## CONNECT WITH ME
+Linkedin: Sofia B. Hernandes
+Instagram: [@sofiabfit](https://www.instagram.com/sofiabfit/)
+Email: [sofiahernandes.dev@gmail.com](mailto:sofiahernandes.dev@gmail.com)
+X: [/sofiaahernandes](https://x.com/sofiaahernandes)
+Pinterest: [sofiabfit](https://pin.it/5gRW2R2bW)
+Github: [sofiahernandes](https://github.com/sofiahernandes)
