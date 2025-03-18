@@ -47,12 +47,11 @@ EDGE_STORE_ACCESS_KEY=""
 EDGE_STORE_SECRET_KEY=""
 ```
 
-## Check out the working app through your phone
+## Check out the working app
 ### Start the app by running:
 ```jsx
 npm run dev
 ```
-Then scan the QR Code acording to the instructions on the terminal
 
 <br>
 
